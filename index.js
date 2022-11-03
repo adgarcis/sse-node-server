@@ -63,3 +63,11 @@ async function addFact(request, respsonse, next) {
 }
 
 app.post('/fact', addFact);
+
+/* 
+
+How to use
+
+
+
+*/
